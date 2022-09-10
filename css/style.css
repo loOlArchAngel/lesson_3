@@ -1,0 +1,31 @@
+/* Header */
+
+h1, h3{
+   color: blue;
+}
+.material{
+   color: slateblue;
+}
+.text>p{
+   color:grey;
+}
+/* Содержание */
+h2{
+   color: green;
+}
+.content{
+   color: orange;
+}
+/* История */
+.firstperiod, 
+.thirdperiod, 
+.fifthperiod,
+.seventhperiod,
+.ninthperiod,
+.eleventhperiod,
+.thirteenthperiod p{
+   color: darkmagenta;
+}
+.chemp li{
+   color: orange;
+}
